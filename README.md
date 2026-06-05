@@ -8,9 +8,9 @@ SLA compliance by stage, hiring manager accountability, channel ROI,
 time-to-fill vs time-to-hire gaps, and offer decline patterns.
 
 ## Live Demos
-- Looker Studio Dashboard: [paste your share link here]
-- Observable Notebook: [paste your notebook link here]
-- Notion Master Hub: [paste your Notion public link here]
+- Looker Studio Dashboard: [https://datastudio.google.com/reporting/7e1570b5-a045-428e-9aa9-a97edfcbcef5]
+- Observable Notebook: [https://observablehq.com/@kartik-sharma/recruitment-funnel-analytics-people-analytics-proj]
+- Notion Master Hub: [(https://app.notion.com/p/Recruitment-Analytics-Project-Master-Hub-3750c9009543804ab2f7f8070eac66f4?source=copy_link)]
 
 ## Key Findings
 1. Overall hire rate 4.0% across 1,000 applicants
