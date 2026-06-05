@@ -35,6 +35,6 @@ Obsidian — methodology documentation
 GitHub — version control and portfolio
 
 ## Live Links
-- Dashboard: [Looker Studio link]
-- Notebook: [Observable link]
-- Hub: [Notion link]
+- Dashboard: [https://datastudio.google.com/reporting/7e1570b5-a045-428e-9aa9-a97edfcbcef5]
+- Notebook: [https://observablehq.com/@kartik-sharma/recruitment-funnel-analytics-people-analytics-proj]
+- Hub: [https://app.notion.com/p/Recruitment-Analytics-Project-Master-Hub-3750c9009543804ab2f7f8070eac66f4?source=copy_link]
