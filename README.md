@@ -4,44 +4,43 @@
 ## What This Project Does
 Analyses a complete recruitment funnel from application to joining 
 across 10 departments and 6 source channels. Surfaces conversion rates, 
-SLA compliance, channel ROI, time-to-fill vs time-to-hire gaps, 
-and rejection patterns — the four metric categories that HR leadership 
-asks about in quarterly business reviews.
+SLA compliance by stage, hiring manager accountability, channel ROI, 
+time-to-fill vs time-to-hire gaps, and offer decline patterns.
 
 ## Live Demos
-- Looker Studio Dashboard: [paste your share link]
-- Observable Notebook: [paste your notebook link]
-- Notion Master Hub: [paste your public Notion link]
+- Looker Studio Dashboard: [paste your share link here]
+- Observable Notebook: [paste your notebook link here]
+- Notion Master Hub: [paste your Notion public link here]
 
 ## Key Findings
-1. Overall hire rate: 4.0% across 1,000 applicants
-2. Employee Referral is the highest-converting channel at 5.5% 
-   despite not being the highest-volume channel
-3. SLA4 compliance (offer to acceptance) at 33% — 
-   the biggest controllable conversion loss in the funnel
-4. On Hold pipeline at 13.9% — 3.5x the healthy benchmark
-5. Budget Frozen accounts for 77 rejections — 
-   a planning failure not a recruitment failure
+1. Overall hire rate 4.0% across 1,000 applicants
+2. SLA4 compliance at 33% — only 1 in 3 offers accepted within 5-day window
+3. Four hiring managers at 0% SLA4 compliance
+4. Offer decline rate at 32.9% against 15% benchmark
+5. Employee Referral converts at 5.5% vs LinkedIn at 3.5%
+6. Engineering received 69 applications and hired zero people
+7. Time to Fill and Time to Hire nearly identical — reactive hiring signal
 
 ## Tool Stack
 | Tool | Purpose |
 |------|---------|
-| Google Sheets + Gemini | Data layer and pivot analysis |
+| Google Sheets + Gemini | Data layer, pivot analysis, SLA formulas |
 | Airtable | Pipeline tracking and kanban view |
-| Looker Studio | Operational dashboards |
-| Observable | Custom D3 visualisations |
+| Looker Studio | 7-page operational dashboard |
+| Observable | 11 custom D3 visualisations |
 | Notion | Stakeholder hub and KPI tracking |
 | Obsidian | Methodology documentation and insight logging |
 | GitHub | Version control and portfolio hosting |
 
-## Project Structure
-- /data — Excel workbook with 1,000 rows and 29 columns
-- /observable — JavaScript source code for all 7 charts
+## Repository Structure
+- /data — Excel workbook with 1,000 rows and 37 columns
+- /observable — JavaScript source code for all 11 charts
 - /obsidian-vault — 11 linked methodology and insight notes
-- /docs — Project summary and methodology overview
+- /docs — Project summary and full methodology
 
-## About This Project
-Built to understand what people analytics looks like in practice 
-— not just the dashboards but the data design decisions, 
-the tool choices, the metric definitions, and the business 
-questions that drive all of it.
+## About
+Built to understand what people analytics looks like in practice — 
+not just the dashboards but the data design decisions, metric definitions, 
+and business questions that drive all of it.
+
+Built by Kartik Sharma | kartik111102@gmail.com
