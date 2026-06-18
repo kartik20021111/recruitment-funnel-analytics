@@ -34,7 +34,7 @@ time-to-fill vs time-to-hire gaps, and offer decline patterns.
 | GitHub | Version control and portfolio hosting |
 
 ## Repository Structure
-- /data — Excel workbook with 1,000 rows and 37 columns
+- [/data](https://github.com/kartik20021111/recruitment-funnel-analytics/tree/main/data) — Excel workbook with 1,000 rows and 37 columns
 - /observable — JavaScript source code for all 11 charts
 - /obsidian-vault — 11 linked methodology and insight notes
 - /docs — Project summary and full methodology
